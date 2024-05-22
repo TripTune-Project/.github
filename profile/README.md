@@ -48,7 +48,7 @@
 **🛠 Frontend Develop** <br>
 
 
- **🛠 Bacnend Develop** <br>
+ **🛠 Backend Develop** <br>
 
  
 **🛠 SCM** <br>
