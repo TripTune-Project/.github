@@ -45,13 +45,31 @@ Triptune 프로젝트는 피그마 등 협업 툴로 일정 계획을 세우는 
 
 ## 📌 기술
 **🛠 Frontend Develop** <br>
-
+- 프레임워크: Next.js
+- 언어: TypeScript, JavaScript
+- 스타일링: Styled Components, css modules
+- 상태 관리: zustand
+- API 통신: Fetch, React Query
+- 인증: JWT
+- UI 컴포넌트: Material UI
+- 애널리틱스: Google Analytics
+- 배포: Netlify
 
  **🛠 Backend Develop** <br>
-
- 
-**🛠 SCM** <br>
-
+- 프레임워크: 
+- 언어: 
+- 데이터베이스: 
+- ORM: 
+- 캐싱:
+- 메시지: 
+- 배포 및 컨테이너화: 
+- CI/CD: GitHub Actions
+- 로깅 및 모니터링: 
+- 파일 저장: 
+- 인증: 
+- 테스팅: 
+- API 문서화: Swagger, Postman
 
 ## ☄️아키텍쳐
+- 예정
 
