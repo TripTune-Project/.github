@@ -56,19 +56,23 @@ Triptune 프로젝트는 피그마 등 협업 툴로 일정 계획을 세우는 
 - 배포: Netlify
 
  **🛠 Backend Develop** <br>
-- 프레임워크: 
-- 언어: 
-- 데이터베이스: 
-- ORM: 
+- 프레임워크: Spring Boot 3.1.11
+- 언어: Java 17
+- 데이터베이스: MySQL, MongdoDB, Redis 
+- ORM: JPA, QueryDSL
 - 캐싱:
-- 메시지: 
-- 배포 및 컨테이너화: 
+- 메시지: WebSocket, STOMP
+- 배포 및 컨테이너화: Docker, Docker Compose
 - CI/CD: GitHub Actions
-- 로깅 및 모니터링: 
-- 파일 저장: 
-- 인증: 
-- 테스팅: 
+- 로깅 및 모니터링: Pinpoint
+- 파일 저장: AWS S3
+- 인증: JWT
+- 테스팅: Junit5, Mockito
 - API 문서화: Swagger, Postman
+
+**🛠 Data Pipeline** <br>
+- 데이터 출처: 공공데이터 포털 중 Tour API 
+- 데이터 처리 언어: Python 3.8.3
 
 ## ☄️아키텍쳐
 - 예정
