@@ -58,9 +58,8 @@ Triptune 프로젝트는 피그마 등 협업 툴로 일정 계획을 세우는 
  **🛠 Backend Develop** <br>
 - 프레임워크: Spring Boot 3.1.11
 - 언어: Java 17
-- 데이터베이스: MySQL, MongdoDB, Redis 
+- 데이터베이스: MySQL, MongoDB, Redis 
 - ORM: JPA, QueryDSL
-- 캐싱:
 - 메시지: WebSocket, STOMP
 - 배포 및 컨테이너화: Docker, Docker Compose
 - CI/CD: GitHub Actions
