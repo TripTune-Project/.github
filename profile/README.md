@@ -111,5 +111,6 @@ Triptune 프로젝트는 피그마 등 협업 툴로 일정 계획을 세우는 
 
 
 ## ☄️CI/CD 파이프라인
-![TripTune-CI_CD 파이프라인2](https://github.com/user-attachments/assets/e1141067-5d32-481c-860a-73333d8c30b3)
+![TripTune-CI_CD 파이프라인](https://github.com/user-attachments/assets/13df6b97-56f8-4af7-a678-51190aa82e53)
+
 
