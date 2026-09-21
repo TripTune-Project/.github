@@ -63,7 +63,7 @@ Triptune 프로젝트는 피그마 등 협업 툴로 일정 계획을 세우는 
 - 메시지: <img src="https://img.shields.io/badge/WebSocket-000000?style=flat-square&logo=websockets&logoColor=white"/> <img src="https://img.shields.io/badge/STOMP-000000?style=flat-square&logo=protocols.io&logoColor=white"/>
 - 배포 및 컨테이너화: <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 - CI/CD: <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-- 로깅 및 모니터링: <img src="https://img.shields.io/badge/Pinpoint-000000?style=flat-square&logo=apache&logoColor=white"/>
+- 로깅 및 모니터링: <img src="https://img.shields.io/badge/Spring%20Actuator-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 - 파일 저장: <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazonaws&logoColor=white"/>
 - 인증: <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 - 테스팅: <img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=testinglibrary&logoColor=white"/> <img src="https://img.shields.io/badge/Mockito-000000?style=flat-square&logo=java&logoColor=white"/>
