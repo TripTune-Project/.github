@@ -9,9 +9,8 @@ Triptune 프로젝트는 피그마 등 협업 툴로 일정 계획을 세우는 
 ## ⏰ 개발 기간
 2024년 7월 ~ 24시간 운영중 <br>
 
-<img width="1168" height="512" alt="Group 625" src="https://github.com/user-attachments/assets/64d5698a-531e-487a-aa4d-14db2788f9bd" />
 <img width="3000" height="1200" alt="triptune_notion_cover_v3" src="https://github.com/user-attachments/assets/7b66432f-ac87-4f4e-b494-17f8a46ab6d0" />
-
+<img width="1168" height="512" alt="Group 625" src="https://github.com/user-attachments/assets/64d5698a-531e-487a-aa4d-14db2788f9bd" />
 <br>
 
 ## 👩‍💻 멤버 구성
